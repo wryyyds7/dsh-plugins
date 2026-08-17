@@ -2,7 +2,7 @@
 
 Community plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh).
 
-社区开发的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件集合。
+个人开发的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件集合。
 
 ## Plugins / 插件列表
 
