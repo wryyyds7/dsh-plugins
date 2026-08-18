@@ -1,0 +1,10 @@
+{
+  "name": "@wryyyds7/dsh-plugins-root",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Community plugins for DeepSeek Harness (dsh)",
+  "license": "MIT",
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" }
+  }
+}

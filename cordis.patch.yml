@@ -1,0 +1,5 @@
+- insert:
+    - id: file-watcher
+      name: "@deepseek-ai/dsh-file-watcher"
+    - id: diff-tool
+      name: "@deepseek-ai/dsh-diff-tool"
